@@ -1,0 +1,30 @@
+{
+   "Nome": "Trab1",
+   "Arquivos": [
+      "teste1.txt",
+      "teste2.xlsx",
+      "teste3.xlsx"
+   ],
+   "Diretorios": [
+      {
+         "Nome": "P1",
+         "Arquivos": [
+            "teste4.docx"
+         ],
+         "Diretorios": []
+      },
+      {
+         "Nome": "P2",
+         "Arquivos": [],
+         "Diretorios": [
+            {
+               "Nome": "P3",
+               "Arquivos": [
+                  "teste5.bmp"
+               ],
+               "Diretorios": []
+            }
+         ]
+      }
+   ]
+}

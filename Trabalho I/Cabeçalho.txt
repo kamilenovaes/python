@@ -1,0 +1,2 @@
+Faça um programa que leia uma string a qual representa um diretório de um S.O. 
+Gere um arquivo JSON com todos os arquivos desse diretório, dos seus diretórios filhos e etc.
